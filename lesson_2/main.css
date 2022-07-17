@@ -1,0 +1,50 @@
+.big{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    color: white;
+
+}
+.a{background: dodgerblue;
+    height: 100px;
+    width: 350px;
+}
+.b{
+    box-sizing: border-box;
+    height: 100px;
+    width: 350px;
+    margin: 20px 0px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+
+}
+.c{
+    background: dodgerblue;
+    height: 200px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b1{
+    background: blue;
+    height: 100px;
+    width: 100px;
+}
+.b2{
+    background: blue;
+    height: 100px;
+    width: 100px;
+}
+.b3{
+    background: blue;
+    height: 100px;
+    width: 100px;
+}

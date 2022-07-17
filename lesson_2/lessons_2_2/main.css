@@ -1,0 +1,34 @@
+.big{
+    width: 200px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: black 1px solid;
+}
+h2{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    display: block;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    border: black 1px solid;
+
+}
+.old{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
